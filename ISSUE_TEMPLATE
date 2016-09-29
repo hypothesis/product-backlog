@@ -10,9 +10,9 @@ Fields |  Your Response
 **H version # (if available)** |
 **Browser Information (chrome, version, etc)**|
 
--[ ] Did you assign a Priority Measurement Label? 
--[ ] Did you assign a Severity Measurement Label? 
--[ ] If the bug is a S1, notify folks in #support channel in Slack
+- [ ] Did you assign a Priority Measurement Label? 
+- [ ] Did you assign a Severity Measurement Label? 
+- [ ] If the bug is a S1, notify folks in #support channel in Slack
 
 ## If creating a new Feature Request use this form, and delete the Bug Report Form above
 ---
