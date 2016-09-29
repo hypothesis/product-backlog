@@ -5,16 +5,21 @@ Fields |  Your Response
 **User Name/Company:** |
 **Is this from a client (paid user):** |
 **What problem is the user experiencing (Problem)?** |
-**What is the actual result, and steps to reproduce it (Actual Behavior)? |
+**What are steps to reproduce the problem?** |
 **What is the expected behavior of the H app from a user's perspective? (Expected Result)** |
 **H version # (if available)** |
 **Browser Information (chrome, version, etc)**|
 
+-[ ] Did you assign a Priority Measurement Label? 
+-[ ] Did you assign a Severity Measurement Label? 
+-[ ] If the bug is a S1, notify folks in #support channel in Slack
 
 ## If creating a new Feature Request use this form, and delete the Bug Report Form above
+---
 Fields |  Your Response
 ------ | ------
 **Link to Zendesk ticket:** |
 **User Name/Company:** |
 **Is this from a client (paid user):** |
-**What is the user asking for?** |
+**What problem is the user trying to solve?** |
+**What is the feature the user is requesting?** |
