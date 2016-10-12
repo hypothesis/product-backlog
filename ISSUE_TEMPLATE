@@ -11,8 +11,7 @@ Fields |  Your Response
 **Browser Information (chrome, version, etc)**|
 
 - [ ] Did you assign a Priority Measurement Label? 
-- [ ] Did you assign a Severity Measurement Label? 
-- [ ] If the bug is a S1, notify folks in #support channel in Slack
+- [ ] If the bug is a P1 or P2, notify the team in #support channel in Slack
 
 ## If creating a new Feature Request use this form, and delete the Bug Report Form above
 ---
