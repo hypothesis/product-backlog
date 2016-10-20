@@ -1,24 +1,26 @@
-## If Reporting a Bug use this form, and delete the Feature Request Form below
-Fields |  Your Response
------- | ------
-**Link to Zendesk ticket:** |
-**User Name/Company:** |
-**Is this from a client (paid user):** |
-**What problem is the user experiencing (Problem)?** |
-**What are steps to reproduce the problem?** |
-**What is the expected behavior of the H app from a user's perspective? (Expected Result)** |
-**H version # (if available)** |
-**Browser Information (chrome, version, etc)**|
+## Bug report form
+### Steps to reproduce
+1.
+2.
+3.
 
-- [ ] Did you assign a Priority Measurement Label? 
-- [ ] If the bug is a P1 or P2, notify the team in #support channel in Slack
+### Expected behaviour
+Tell us what should happen.
 
-## If creating a new Feature Request use this form, and delete the Bug Report Form above
----
-Fields |  Your Response
------- | ------
-**Link to Zendesk ticket:** |
-**User Name/Company:** |
-**Is this from a client (paid user):** |
-**What problem is the user trying to solve?** |
-**What is the feature the user is requesting?** |
+### Actual behaviour
+Tell us what happens instead.
+
+### Browser/system information
+Tell us which browser, browser version, and operating system you were using when
+you encountered this issue.
+
+### Additional details
+
+
+## Feature Request Form
+### Problem you are trying to address with this feature
+
+### Your solution
+
+### Add tags - did you add labels? 
+If this a customer requested feature, make sure to add that label. 
