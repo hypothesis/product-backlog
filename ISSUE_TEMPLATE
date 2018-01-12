@@ -1,26 +1,50 @@
-## Bug report form
-### Steps to reproduce
-1.
-2.
-3.
+<!--
+Fill out either the Bug Report or the Feature Request form below. For more about how to describe work see:
+https://github.com/hypothesis/handbook/blob/master/product-team/getting-work-ready-for-the-team.md 
+-->
 
-### Expected behaviour
-Tell us what should happen.
+# Bug Report
 
-### Actual behaviour
-Tell us what happens instead.
+## Steps to reproduce this bug
 
-### Browser/system information
-Tell us which browser, browser version, and operating system you were using when
-you encountered this issue.
-
-### Additional details
+<!-- Give us a list of steps to reproduce the bug. -->
 
 
-## Feature Request Form
-### Problem you are trying to address with this feature
+## Expected behaviour
 
-### Your solution
+<!-- Tell us what the correct behavior that should happen is. -->
 
-### Add tags - did you add labels? 
-If this a customer requested feature, make sure to add that label. 
+
+## Actual behaviour
+
+<!-- Tell us what incorrect behavior actually happens instead. -->
+
+
+## Browser/system information
+
+<!-- Tell us which browser, browser version, and operating system you were using when you encountered this issue. -->
+
+
+## Additional details
+
+
+
+# Feature Request
+
+<!-- For more about how to write a feature request, see:
+https://github.com/hypothesis/handbook/blob/master/product-team/getting-work-ready-for-the-team.md
+-->
+
+## Problem you are trying to address with this feature
+
+<!-- Give us a user story or an explanation of the requirement that needs to be addressed. -->
+
+
+## Prior investigation
+
+<!-- Include links to any additional context for this piece of work. -->
+
+
+## Acceptance criteria
+
+<!-- Tell us what clear criteria must be met before this feature is complete. -->
